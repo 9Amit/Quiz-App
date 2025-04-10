@@ -7,4 +7,4 @@ Personalized Profiles: Users can create profiles with custom avatars.
 Timed Quizzes: Each quiz is timed to enhance the challenge.
 Dynamic Questions: Questions are fetched from an external API to ensure variety.
 Responsive Design: Optimized for both desktop and mobile devices.
-
+Updated reaMe
